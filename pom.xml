@@ -313,6 +313,17 @@
       </snapshots>
     </pluginRepository>
   </pluginRepositories>
+  <repository>
+  <id>mvnfeed</id>
+  <url>https://pkgs.dev.azure.com/devopst1/f7d26094-6af8-47c6-b55a-3839a1f9bd92/_packaging/mvnfeed/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
+  
 
   <profiles>
     <profile>
